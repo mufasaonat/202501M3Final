@@ -1,5 +1,5 @@
 *{
-    background-color: antiquewhite;
+    /* background-color: antiquewhite; */
 }
 
 .container{
@@ -7,9 +7,7 @@
     background-color: none;
     margin-top: 50px;
 }
-.rectangle{
-    height: 100px;
-    width: 500px;
-    background-color: brown;
-    margin: auto;
+h1{
+    align-items: center;
+    font-size: 50px;
 }
