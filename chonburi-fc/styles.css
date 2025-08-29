@@ -1,0 +1,128 @@
+.main {
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://pbs.twimg.com/media/F2NgLTXacAAEG4V.jpg:large');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.team-card {
+    transition: transform 0.3s ease;
+}
+
+.team-card:hover {
+    transform: translateY(-5px);
+}
+
+.stats-card {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border-radius: 15px;
+}
+
+.footer {
+    background-color: #1a1a1a;
+    color: white;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+/* Simple nav (no Bootstrap) */
+.simple-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #000;
+    color: #fff;
+    padding: 10px 16px;
+    z-index: 1000;
+}
+.simple-nav .brand {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+.simple-nav .nav-links a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 12px;
+    font-weight: bold;
+}
+.simple-nav .nav-links a:hover {
+    text-decoration: underline;
+}
+
+/* Navbar dropdown */
+.navbar-dark .dropdown-menu {
+    background-color: #0f0f0f;
+    border: none;
+    border-radius: 10px;
+    padding: 6px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+    margin-top: 10px;
+}
+.navbar-dark .dropdown-item {
+    color: #e9ecef;
+    border-radius: 6px;
+    padding: 10px 14px;
+}
+.navbar-dark .dropdown-item:hover,
+.navbar-dark .dropdown-item:focus {
+    background-color: #1a1a1a;
+    color: #0d6efd;
+}
+.navbar-dark .dropdown-item.active {
+    background-color: #0d6efd;
+    color: #ffffff;
+}
+.navbar .dropdown-toggle::after {
+    margin-left: .35rem;
+}
+
+.nav-item {
+    font-weight: bold;
+    font-size: 1rem;
+    color: white;
+}
+
+.icon{
+    width: 5%;
+}
+.aboutus{
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    padding: 40px;
+    max-width: 600px;
+    text-align: center;
+}
+.aboutus-body{
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),  url('https://scontent.fbkk21-1.fna.fbcdn.net/v/t39.30808-6/537158111_1302516708551511_3116914245433972864_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=2Y7HhFw899QQ7kNvwF-lPFW&_nc_oc=AdlH3bpidVT_N0mgVn1o_2-3RnhlXZY86fh2BxvBpPDjoitb_Z0bGODAtb7a4dheVio&_nc_zt=23&_nc_ht=scontent.fbkk21-1.fna&_nc_gid=1fARWU5bYhyLv-amKiiGmA&oh=00_AfVPtX2lNBwUIwiLLAvHOFHGUw5_SCbhxzjT2YbgG-tV1Q&oe=68B5C273');
+    /* Changed background color */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.social-icons a {
+    margin: 0 8px;
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+}
+.social-icons a:hover {
+    text-decoration: underline;
+}
