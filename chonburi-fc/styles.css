@@ -126,3 +126,15 @@
 .social-icons a:hover {
     text-decoration: underline;
 }
+
+.copyright{
+    margin-bottom: -4.1px;
+    margin-left: 50px;
+    color: white;
+}
+
+.lineid{
+    margin-top: -4.1px;
+    margin-left: 80%;
+    color: white;
+}
