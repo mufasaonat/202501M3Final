@@ -1,0 +1,15 @@
+| No. | Name                             | Position          | Date of Birth | Previous Club                                                                                         |
+| --- | -------------------------------- | ----------------- | ------------- | ----------------------------------------------------------------------------------------------------- |
+| 22  | Chommaphat Boonloet              | Goalkeeper        | 2003‑02‑17    | Youth team                                                                                            |
+| 46  | Noppakun Kadtoon                 | Goalkeeper        | 1994‑10‑12    | Rayong F.C.                                                                                           |
+| 87  | Thanawat Panthong                | Goalkeeper        | 2004‑04‑06    | Banbueng F.C.                                                                                         |
+| 3   | Chatmongkol Rueangthanarot       | Defender          | 2002‑05‑09    | Youth team                                                                                            |
+| 6   | Songchai Thongcham               | Defender          | 2001‑06‑09    | Youth team                                                                                            |
+| 10  | Channarong Promsrikaew (captain) | Midfielder        | 2001‑04‑17    | Youth team                                                                                            |
+| 16  | Jeon San‑hae                     | Midfielder        | 1999‑05‑29    | Jeonju Citizen FC                                                                                     |
+| 20  | Suksan Bunta                     | Midfielder (RB)   | 2002‑05‑05    | Youth team                                                                                            |
+| 33  | Derley                           | Forward           | 1987‑12‑29    | PT Prachuap F.C.                                                                                      |
+| 9   | Fergus Tierney                   | Forward           | 2003‑03‑19    | Johor Darul Ta'zim II F.C.                                                                            |
+| 9   | **Adisak Kraisorn**              | Forward (Striker) | 1991‑02‑01    | (Joined Chonburi in 2024; played previously at Kasetsart, Bangkok United, Port etc.) ([Wikipedia][1]) |
+
+[1]: https://en.wikipedia.org/wiki/Adisak_Kraisorn?utm_source=chatgpt.com "Adisak Kraisorn"
