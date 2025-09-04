@@ -1,5 +1,5 @@
 .main {
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://static.thairath.co.th/media/dFQROr7oWzulq5Fa5KTGAIu19irYrkEB59fTs1F3n7P0w9O7U8tCvx61Z0TYm7plu03.jpg');
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://scontent.fbkk21-1.fna.fbcdn.net/v/t39.30808-6/489069242_1186948516774998_810209550459654257_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=f727a1&_nc_ohc=pk9aP_71t1IQ7kNvwEqBypo&_nc_oc=Adn-Dm98tEP5-xoRWNcOkmeEw3Zpz8M6uM6WHM7CcriF35GkOQZET9WFbNNVFACXdIs&_nc_zt=23&_nc_ht=scontent.fbkk21-1.fna&_nc_gid=EHkWdnCtMK3gVFIkvh5swg&oh=00_AfYG505SuCclHppCmEG_0S0NNC6OH3ZcZvg4V8_NHpf17g&oe=68BEDD5C');
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -137,4 +137,8 @@
     margin-top: -4.1px;
     margin-left: 80%;
     color: white;
+}
+
+.profile{
+    margin-top: -200px;
 }
