@@ -1,0 +1,61 @@
+* {
+    font-family: 'Latin Modern Roman 10';
+    src: url(fonts/Latin-Modern-Roman/lmroman10-regular.otf)
+}
+
+@font-face {
+    font-family: 'Latin Modern Roman 10';
+    src: url(fonts/Latin-Modern-Roman/lmroman10-regular.otf);
+}
+@font-face {
+    font-family: 'Latin Modern Roman 10';
+    src: url(fonts/Latin-Modern-Roman/lmroman10-italic.otf);
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Latin Modern Roman 10';
+    src: url(fonts/Latin-Modern-Roman/lmroman10-bold.otf);
+    font-weight: bold;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+    justify-content: space-between;
+}
+  
+    /* Style the links inside the navigation bar */
+    .topnav a {
+        float: left;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+    }
+  
+    /* Change the color of links on hover */
+    .topnav a:hover {
+        background-color: #ddd;
+        color: black;
+    }
+  
+    /* Add a color to the active/current link */
+    .topnav a.active {
+        background-color: #1a8383;
+        color: white;
+    }
+
+img {
+    pad: 20%;
+}
+
+h1.title {
+    color: white;
+    font-size: xx-large;
+}
+
+p {
+    font-size: large;
+}
